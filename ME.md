@@ -1,0 +1,6 @@
+- Hi, I'm @bottegaph
+- I'm interested in: HTML, CSS, JAVASCRIPT, PYTHON, MySQL
+- I am currently learning about JAVA
+- I'm looking to collaborate in the home office
+- Instagram: @bottegaph
+- Email: bottegaph.oficial@gmail.com
